@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="181012Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/181012Test_jar</output-path>
+    <root id="root">
+      <element id="archive" name="181012Test.jar">
+        <element id="module-output" name="181012Test" />
+      </element>
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="JAX-WS-Apache Axis" />
+    </root>
+  </artifact>
+</component>
